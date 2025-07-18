@@ -41,7 +41,7 @@ sudo apt install python3-tk
 ### 2️⃣ Run the Program
 
 ```bash
-python3 rock-paper-scissors.py
+python3 stone-paper-scissors.py
 ```
 
 ---
@@ -63,11 +63,6 @@ python3 rock-paper-scissors.py
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here when available)
-
----
 
 ## 🔥 Future Enhancements (Optional)
 
